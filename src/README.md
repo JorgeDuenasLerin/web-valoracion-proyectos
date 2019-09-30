@@ -1,3 +1,3 @@
-# Ficheros de código
+# Código fuente
 
-Código fuente de la aplicación
+Código fuente
